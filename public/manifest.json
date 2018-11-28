@@ -1,0 +1,19 @@
+{
+  "name": "影片搜索",
+  "short_name": "搜索",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#000",
+  "description": "强大的搜索引擎",
+  "orientation": "portrait-primary",
+  "theme_color": "transparent",
+  "icons": [{
+    "src": "dest.png",
+    "sizes": "472x472",
+    "type": "image/png"
+  }, {
+    "src": "dest.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }]
+}
